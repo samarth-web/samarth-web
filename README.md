@@ -23,7 +23,7 @@ About me:
 
 
 ### 📊 GitHub Stats
-![Samarth's GitHub stats](https://github-readme-stats.vercel.app/api?username=samarth-web&show_icons=true&theme=radical)
+![Samarth's GitHub stats](https://github-readme-stats.vercel.app/api?username=samarth-web&show_icons=true&theme=radical&show_icons=true&cache_seconds=3600))
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samarth-web&layout=compact&theme=radical)
