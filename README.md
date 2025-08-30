@@ -13,7 +13,7 @@ Welcome to my GitHub Page 😊!
 
 ### 📊 GitHub Stats
 ![Samarth's GitHub stats](https://github-readme-stats.vercel.app/api?username=samarth-web&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samarth-webE&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samarth-web&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=samarth-web&theme=radical)
 
 
