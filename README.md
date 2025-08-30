@@ -34,7 +34,11 @@ About me:
 ## 🌍 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samarth-jain-ab69a2253/)
+
+
 [![Kaggle](https://img.shields.io/badge/Kaggle-000?style=for-the-badge&logo=vercel)](https://www.kaggle.com/samarthj204)  
+
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samarthj204@gmail.com) 
 
 
