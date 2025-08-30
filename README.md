@@ -3,6 +3,8 @@ Welcome to my GitHub Page 😊!
 
 
 About me:
+
+
 💻 Final-year CS + Math student @ Uni of Manchester  
 ☁️ Passionate about AI, Cloud, and Automation  
 🚀 Ex-Intern @ Rolls-Royce Motor Cars | Research Intern @ UoM
@@ -22,7 +24,11 @@ About me:
 
 ### 📊 GitHub Stats
 ![Samarth's GitHub stats](https://github-readme-stats.vercel.app/api?username=samarth-web&show_icons=true&theme=radical)
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samarth-web&layout=compact&theme=radical)
+
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=samarth-web&theme=radical)
 
 ## 🌍 Connect with Me
