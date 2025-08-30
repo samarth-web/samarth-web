@@ -1,4 +1,9 @@
-## Hi there, I am Samarth 👋
+## Hi there, I am Samarth 👋   
+
+![Profile views](https://komarev.com/ghpvc/?username=samarth-web&label=Views&color=yellow&style=for-the-badge)
+
+
+
 Welcome to my GitHub Page 😊!
 
 
