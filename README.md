@@ -2,12 +2,13 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=samarth-web&label=Views&color=yellow&style=for-the-badge)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+my+profile!+.+.+.;;)](https://git.io/typing-svg)
 
 
-Welcome to my GitHub Page 😊!
 
 
-About me:
+
+# About me:
 
 
 💻 Final-year CS + Math student @ Uni of Manchester  
