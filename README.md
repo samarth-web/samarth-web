@@ -1,8 +1,15 @@
-## Hi there 👋
+## Hi there, I am Samarth 👋
+Welcome to my GitHub Page 😊!
 
 💻 Final-year CS + Math student @ Uni of Manchester  
 ☁️ Passionate about AI, Cloud, and Automation  
 🚀 Ex-Intern @ Rolls-Royce Motor Cars | Research Intern @ UoM
+
+### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+... add more
 
 ### 📊 GitHub Stats
 ![Samarth's GitHub stats](https://github-readme-stats.vercel.app/api?username=samarth-web&show_icons=true&theme=radical)
