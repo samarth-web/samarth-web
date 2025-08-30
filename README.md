@@ -1,5 +1,7 @@
 ## Hi there, I am Samarth 👋
 Welcome to my GitHub Page 😊!
+
+
 About me:
 💻 Final-year CS + Math student @ Uni of Manchester  
 ☁️ Passionate about AI, Cloud, and Automation  
