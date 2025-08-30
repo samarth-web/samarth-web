@@ -23,6 +23,12 @@ Welcome to my GitHub Page 😊!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samarth-web&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=samarth-web&theme=radical)
 
+## 🌍 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samarth-jain-ab69a2253/)
+[![Kaggle](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://www.kaggle.com/samarthj204))  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samarthj204@gmail.com)  
+
 
 <!--
 **samarth-web/samarth-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
