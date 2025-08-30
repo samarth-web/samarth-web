@@ -23,13 +23,13 @@ About me:
 
 
 ### 📊 GitHub Stats
-![Samarth's GitHub stats](https://github-readme-stats.vercel.app/api?username=samarth-web&show_icons=true&theme=radical&show_icons=true&cache_seconds=3600))
+![Samarth's GitHub stats](https://github-readme-stats.vercel.app/api?username=samarth-web&show_icons=true&theme=radical&show_icons=true&cache_seconds=3600)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samarth-web&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samarth-web&layout=compact&theme=radical&show_icons=true&cache_seconds=3600)
 
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=samarth-web&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=samarth-web&theme=radical&show_icons=true&cache_seconds=3600)
 
 ## 🌍 Connect with Me
 
