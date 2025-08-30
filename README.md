@@ -9,7 +9,7 @@ Welcome to my GitHub Page 😊!
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-... add more
+
 
 ### 📊 GitHub Stats
 ![Samarth's GitHub stats](https://github-readme-stats.vercel.app/api?username=samarth-web&show_icons=true&theme=radical)
