@@ -13,10 +13,10 @@
 
 💻 Final-year CS + Math student @ Uni of Manchester  
 ☁️ Passionate about AI, Cloud, and Automation  
-🚀 Data & AI Intern @ The School of Engineering - The University of Manchester <br>
-🏎 Ex-Intern @ Rolls-Royce Motor Cars <br>
-📊 Ex-Intern @ Dhurin Data Sciences <br>
-📈 Ex-Intern @ TheMathCompany
+🚀 Ex-Intern Data & AI @ The School of Engineering - The University of Manchester <br>
+🏎 Ex-Intern Technology @ Rolls-Royce Motor Cars <br>
+📊 Ex-Intern Data Science @ Dhurin Data Sciences <br>
+📈 Ex-Intern Data Analyst @ TheMathCompany
 
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
